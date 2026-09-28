@@ -1,0 +1,6 @@
+{
+  "name": "DevGuide AI",
+  "description": "Understand Any Codebase. Learn Faster. Contribute with Confidence. AI-powered developer onboarding and codebase intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
